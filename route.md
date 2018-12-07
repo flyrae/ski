@@ -27,8 +27,10 @@ h58:中国科学院大学 &rArr; 庙城东：  41分钟+10分钟
 
   
   北京理工大学北门(特8路-三义庙站)(上车)  
+  [公交站位置](#bit_nd)  
   5站  
   中国政法大学北门（蓟门桥西）（上车）  
+  [公交站位置](#pl_nd)
 
   特8路-西坝河站(下车)  
   [换乘图](#s8_916)  
@@ -56,6 +58,14 @@ h58/h58青龙峡 &rArr;   916  &rArr; 特8/302
 ```
 [班车时间](#schoolBus)(最晚3.30基本可以毙掉)
 
+
+<div id="bit_nd"></div>
+
+![avatar](img/bit_nd.jpg)
+
+<div id="pl_nd"></div>
+
+![avatar](img/pl_nd.jpg)
 
 
 ![avatar](img/bit_ski.jpg)

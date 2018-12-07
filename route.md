@@ -45,7 +45,7 @@ h58:中国科学院大学 &rArr; 庙城东：  41分钟+10分钟
 
 ### 去中科院大学(大约半小时)
 
-[路线](#ski_cau)
+[路线](#ski_cau)  
 <a href="#ski_cau">点击跳转</a>
 公交选项：h11、h33、h58  
 青龙峡道口站（上车）  
@@ -87,7 +87,7 @@ h58/h58青龙峡 &rArr;   916  &rArr; 特8/302
 
 ![avatar](img/916_h58.jpg)
 
-<div id="ski_cau"></div>
+<a id="ski_cau"></a>
 滑雪场到中科院大学
 
 ![avatar](img/ski_cau.jpg)

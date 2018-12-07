@@ -24,7 +24,7 @@ h58:中国科学院大学 &rArr; 庙城东：  41分钟+10分钟
 |h58路青龙峡(回)|05:00|19:30||
 |916（回）|04:50|18:50||
 ### 去滑雪场 (大约3小时)
-
+[路线](#bit_ski)
   
   北京理工大学北门(特8路-三义庙站)(上车)  
   [公交站位置](#bit_nd)  
@@ -59,6 +59,12 @@ h58/h58青龙峡 &rArr;   916  &rArr; 特8/302
 ```
 [班车时间](#schoolBus)(最晚3.30基本可以毙掉)
 
+----
+
+<div id="bit_ski"></div>
+北理工到滑雪场
+
+![avatar](img/bit_ski.jpg)
 
 <div id="bit_nd"></div>
 北理工北门公交站  
@@ -70,18 +76,12 @@ h58/h58青龙峡 &rArr;   916  &rArr; 特8/302
 
 ![avatar](img/pl_nd.jpg)
 
-
-![avatar](img/bit_ski.jpg)
-
-
-
 <div id="s8_916"></div>  
 特8转乘916  
 
 ![avatar](img/s8_916.jpg)
 
 <div id="916_h58"></div>
-
 916转乘h58
 
 ![avatar](img/916_h58.jpg)
